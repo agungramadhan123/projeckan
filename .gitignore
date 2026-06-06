@@ -8,6 +8,12 @@ __pycache__/
 final_merge_dataset.csv
 results/preprocessed_data.csv
 
+# Split dataset parts
+parts/
+furqon/
+indra/
+ucup/
+
 # Large Deep Learning Model Checkpoints (IndoBERT weights are ~500MB)
 checkpoints/
 *.pt
