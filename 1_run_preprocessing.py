@@ -24,7 +24,7 @@ from preprocessing_helper import preprocess, init_worker
 # Konfigurasi
 # ---------------------------------------------------------------------------
 # Ubah ke False jika ingin jalankan dengan data penuh
-SAMPLE_MODE   = True
+SAMPLE_MODE   = False
 SAMPLE_SIZE   = 2000
 
 BASE_DIR      = Path(__file__).parent
