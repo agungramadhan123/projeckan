@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+imbalanced-learn
+transformers
+PySastrawi
+nltk
+torch

@@ -1,0 +1,33 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Datasets
+final_merge_dataset.csv
+results/preprocessed_data.csv
+
+# Large Deep Learning Model Checkpoints (IndoBERT weights are ~500MB)
+checkpoints/
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# hasil preprocessing dan model training
+results/
+
+# Virtual Environments
+venv/
+env/
+.env
+ENV/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
