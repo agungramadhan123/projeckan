@@ -25,7 +25,7 @@ from preprocessing_helper import preprocess, init_worker
 # ---------------------------------------------------------------------------
 # Ubah ke False jika ingin jalankan dengan data penuh
 SAMPLE_MODE   = True
-SAMPLE_SIZE   = False
+SAMPLE_SIZE   = 2000
 
 BASE_DIR      = Path(__file__).parent
 DATA_PATH     = BASE_DIR.parent / 'final_merge_dataset.csv'
